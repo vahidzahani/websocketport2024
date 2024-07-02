@@ -1,0 +1,8 @@
+C:\Users\BAHARAN\Desktop\websocket_reader\WindowsService2\bin\Debug\WindowsService2.exe.config
+C:\Users\BAHARAN\Desktop\websocket_reader\WindowsService2\bin\Debug\WindowsService2.exe
+C:\Users\BAHARAN\Desktop\websocket_reader\WindowsService2\bin\Debug\WindowsService2.pdb
+C:\Users\BAHARAN\Desktop\websocket_reader\WindowsService2\obj\Debug\WindowsService2.csproj.AssemblyReference.cache
+C:\Users\BAHARAN\Desktop\websocket_reader\WindowsService2\obj\Debug\WindowsService2.csproj.SuggestedBindingRedirects.cache
+C:\Users\BAHARAN\Desktop\websocket_reader\WindowsService2\obj\Debug\WindowsService2.csproj.CoreCompileInputs.cache
+C:\Users\BAHARAN\Desktop\websocket_reader\WindowsService2\obj\Debug\WindowsService2.exe
+C:\Users\BAHARAN\Desktop\websocket_reader\WindowsService2\obj\Debug\WindowsService2.pdb
